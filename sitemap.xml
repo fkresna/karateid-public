@@ -5,45 +5,55 @@
   <url>
     <loc>http://karateid.com/karate/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://karateid.com/posts/my-first-post/</loc>
     <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://karateid.com/categories/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://karateid.com/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://karateid.com/tags/kobudo/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://karateid.com/posts/</loc>
     <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://karateid.com/tags/sejarah/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://karateid.com/tags/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
